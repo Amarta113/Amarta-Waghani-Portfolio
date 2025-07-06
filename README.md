@@ -1,6 +1,5 @@
-# Amarta-Waghani-Portfolio
 
-# 👋 Hi, I'm Amaru Dhamru
+# 👋 Hi, I'm Amarta waghani
 
 AI enthusiast | Machine Learning Developer | LLMs | RAG | Voice Chatbots
 
